@@ -15,7 +15,7 @@ Node-RED flow that contains functionality for figuring out where a patient is lo
 6. After a few minutes your app will be running (App Health: Your app is running)
 7. Go to **https://\<your_app_name\>.mybluemix.net**
 8. Click on **Go to your Node-RED flow editor**
-9. Copy the text in **[exercise1.flow](exercise1.flow)**
+9. Copy the text in **[application.flow](application.flow)**
 10. In your Node-RED flow editor click on the menu button (top right)
 11. Choose **Import From - Clipboard**
 12. Paste the text your copied in **9.**
